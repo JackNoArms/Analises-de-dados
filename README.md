@@ -1,16 +1,20 @@
 # Análises de Dados
 
-Este repositório contém uma coleção de notebooks e scripts de análise de dados realizados em diferentes conjuntos de dados. O objetivo é explorar, visualizar e obter insights a partir dos dados.
+Este repositório contém notebooks e arquivos relacionados a análises de dados. Cada notebook aborda um tópico específico, utilizando técnicas de ciência de dados e visualização para explorar conjuntos de dados e extrair insights.
 
-## Estrutura do Repositório
+## Notebooks Disponíveis
 
-- `/notebooks`: Esta pasta contém os notebooks de análise de dados.
+- Notebook 1: Análise de Vendas de Console
+- Notebook 2: Índice Global de Paz
 
-## Dependências
+## Pré-requisitos
 
-As análises de dados foram feitas utilizando as seguintes bibliotecas:
+- Conhecimento básico de Python e bibliotecas populares de análise de dados, como Pandas e Matplotlib.
 
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
+## Contribuição
+
+Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou novas análises para adicionar, fique à vontade para fazer um fork deste repositório, criar um branch com as suas modificações e enviar um pull request.
+
+## Licença
+
+Este repositório está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
