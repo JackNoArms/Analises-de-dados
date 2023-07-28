@@ -10,11 +10,13 @@ Este repositório contém notebooks e arquivos relacionados a análises de dados
 ## Notebooks Disponíveis de ETL
 
 - Notebook 1: N204_ESFORÇO_DOCENTE
+
 descrição: Nesse notebook sigo uma lista de instruções para extrair informações do inep sobre indicadores educacionais de esforço docente e faço as transformações necessárias para a carga no banco de dados do Tribunal de Contas da União.
 
 ## Notebooks Disponíveis de IA
 
 - Notebook 1: Churn de clientes bancários
+
 descrição: Nesse notebook faço o treinamento de uma IA usando o modelo de treinamento Máquina de vetores de suporte (Support vector machine) ou apenas SVC.
 
 ## Pré-requisitos
