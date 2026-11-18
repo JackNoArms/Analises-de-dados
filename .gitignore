@@ -1,0 +1,14 @@
+# Data from source providers is downloaded on demand; raw archives stay local.
+.cache/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.env
+.env.*
+!.env.example
+*.sqlite
+*.db
+.vscode/
+.DS_Store

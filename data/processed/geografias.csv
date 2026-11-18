@@ -1,0 +1,133 @@
+ano,nivel,geografia,uf,regiao,etapa,percentual_n1_n2
+2022,Brasil,Brasil,,,Ensino fundamental,38.0
+2022,Região,Norte,,,Ensino fundamental,39.7
+2022,Região,Nordeste,,,Ensino fundamental,43.1
+2022,Região,Sudeste,,,Ensino fundamental,37.3
+2022,Região,Sul,,,Ensino fundamental,27.7
+2022,Região,Centro-Oeste,,,Ensino fundamental,40.8
+2022,UF,Rondônia,RO,Norte,Ensino fundamental,41.6
+2022,UF,Acre,AC,Norte,Ensino fundamental,46.6
+2022,UF,Amazonas,AM,Norte,Ensino fundamental,43.0
+2022,UF,Roraima,RR,Norte,Ensino fundamental,41.1
+2022,UF,Pará,PA,Norte,Ensino fundamental,34.3
+2022,UF,Amapá,AP,Norte,Ensino fundamental,57.7
+2022,UF,Tocantins,TO,Norte,Ensino fundamental,40.5
+2022,UF,Maranhão,MA,Nordeste,Ensino fundamental,56.2
+2022,UF,Piauí,PI,Nordeste,Ensino fundamental,36.7
+2022,UF,Ceará,CE,Nordeste,Ensino fundamental,36.3
+2022,UF,Rio Grande do Norte,RN,Nordeste,Ensino fundamental,43.1
+2022,UF,Paraíba,PB,Nordeste,Ensino fundamental,45.5
+2022,UF,Pernambuco,PE,Nordeste,Ensino fundamental,43.7
+2022,UF,Alagoas,AL,Nordeste,Ensino fundamental,44.2
+2022,UF,Sergipe,SE,Nordeste,Ensino fundamental,42.5
+2022,UF,Bahia,BA,Nordeste,Ensino fundamental,37.8
+2022,UF,Minas Gerais,MG,Sudeste,Ensino fundamental,41.1
+2022,UF,Espírito Santo,ES,Sudeste,Ensino fundamental,38.2
+2022,UF,Rio de Janeiro,RJ,Sudeste,Ensino fundamental,35.2
+2022,UF,São Paulo,SP,Sudeste,Ensino fundamental,36.1
+2022,UF,Paraná,PR,Sul,Ensino fundamental,29.7
+2022,UF,Santa Catarina,SC,Sul,Ensino fundamental,20.5
+2022,UF,Rio Grande do Sul,RS,Sul,Ensino fundamental,30.2
+2022,UF,Mato Grosso do Sul,MS,Centro-Oeste,Ensino fundamental,28.1
+2022,UF,Mato Grosso,MT,Centro-Oeste,Ensino fundamental,39.8
+2022,UF,Goiás,GO,Centro-Oeste,Ensino fundamental,40.8
+2022,UF,Distrito Federal,DF,Centro-Oeste,Ensino fundamental,57.0
+2022,Brasil,Brasil,,,Anos iniciais,50.1
+2022,Região,Norte,,,Anos iniciais,50.7
+2022,Região,Nordeste,,,Anos iniciais,52.3
+2022,Região,Sudeste,,,Anos iniciais,52.4
+2022,Região,Sul,,,Anos iniciais,36.1
+2022,Região,Centro-Oeste,,,Anos iniciais,57.6
+2022,UF,Rondônia,RO,Norte,Anos iniciais,65.9
+2022,UF,Acre,AC,Norte,Anos iniciais,55.9
+2022,UF,Amazonas,AM,Norte,Anos iniciais,43.8
+2022,UF,Roraima,RR,Norte,Anos iniciais,52.3
+2022,UF,Pará,PA,Norte,Anos iniciais,44.8
+2022,UF,Amapá,AP,Norte,Anos iniciais,81.3
+2022,UF,Tocantins,TO,Norte,Anos iniciais,61.8
+2022,UF,Maranhão,MA,Nordeste,Anos iniciais,61.0
+2022,UF,Piauí,PI,Nordeste,Anos iniciais,41.0
+2022,UF,Ceará,CE,Nordeste,Anos iniciais,40.3
+2022,UF,Rio Grande do Norte,RN,Nordeste,Anos iniciais,58.5
+2022,UF,Paraíba,PB,Nordeste,Anos iniciais,62.9
+2022,UF,Pernambuco,PE,Nordeste,Anos iniciais,58.9
+2022,UF,Alagoas,AL,Nordeste,Anos iniciais,61.2
+2022,UF,Sergipe,SE,Nordeste,Anos iniciais,59.7
+2022,UF,Bahia,BA,Nordeste,Anos iniciais,46.7
+2022,UF,Minas Gerais,MG,Sudeste,Anos iniciais,58.0
+2022,UF,Espírito Santo,ES,Sudeste,Anos iniciais,45.4
+2022,UF,Rio de Janeiro,RJ,Sudeste,Anos iniciais,46.9
+2022,UF,São Paulo,SP,Sudeste,Anos iniciais,52.5
+2022,UF,Paraná,PR,Sul,Anos iniciais,42.3
+2022,UF,Santa Catarina,SC,Sul,Anos iniciais,25.4
+2022,UF,Rio Grande do Sul,RS,Sul,Anos iniciais,36.2
+2022,UF,Mato Grosso do Sul,MS,Centro-Oeste,Anos iniciais,34.1
+2022,UF,Mato Grosso,MT,Centro-Oeste,Anos iniciais,57.7
+2022,UF,Goiás,GO,Centro-Oeste,Anos iniciais,60.5
+2022,UF,Distrito Federal,DF,Centro-Oeste,Anos iniciais,80.5
+2022,Brasil,Brasil,,,Anos finais,20.1
+2022,Região,Norte,,,Anos finais,25.2
+2022,Região,Nordeste,,,Anos finais,28.0
+2022,Região,Sudeste,,,Anos finais,16.5
+2022,Região,Sul,,,Anos finais,13.0
+2022,Região,Centro-Oeste,,,Anos finais,15.8
+2022,UF,Rondônia,RO,Norte,Anos finais,12.6
+2022,UF,Acre,AC,Norte,Anos finais,38.8
+2022,UF,Amazonas,AM,Norte,Anos finais,35.8
+2022,UF,Roraima,RR,Norte,Anos finais,26.4
+2022,UF,Pará,PA,Norte,Anos finais,20.7
+2022,UF,Amapá,AP,Norte,Anos finais,30.5
+2022,UF,Tocantins,TO,Norte,Anos finais,18.4
+2022,UF,Maranhão,MA,Nordeste,Anos finais,45.3
+2022,UF,Piauí,PI,Nordeste,Anos finais,23.0
+2022,UF,Ceará,CE,Nordeste,Anos finais,26.0
+2022,UF,Rio Grande do Norte,RN,Nordeste,Anos finais,21.9
+2022,UF,Paraíba,PB,Nordeste,Anos finais,25.7
+2022,UF,Pernambuco,PE,Nordeste,Anos finais,22.8
+2022,UF,Alagoas,AL,Nordeste,Anos finais,21.6
+2022,UF,Sergipe,SE,Nordeste,Anos finais,20.8
+2022,UF,Bahia,BA,Nordeste,Anos finais,24.2
+2022,UF,Minas Gerais,MG,Sudeste,Anos finais,19.9
+2022,UF,Espírito Santo,ES,Sudeste,Anos finais,21.9
+2022,UF,Rio de Janeiro,RJ,Sudeste,Anos finais,17.1
+2022,UF,São Paulo,SP,Sudeste,Anos finais,14.1
+2022,UF,Paraná,PR,Sul,Anos finais,11.0
+2022,UF,Santa Catarina,SC,Sul,Anos finais,9.5
+2022,UF,Rio Grande do Sul,RS,Sul,Anos finais,17.0
+2022,UF,Mato Grosso do Sul,MS,Centro-Oeste,Anos finais,13.2
+2022,UF,Mato Grosso,MT,Centro-Oeste,Anos finais,17.0
+2022,UF,Goiás,GO,Centro-Oeste,Anos finais,14.9
+2022,UF,Distrito Federal,DF,Centro-Oeste,Anos finais,20.3
+2022,Brasil,Brasil,,,Ensino médio,11.8
+2022,Região,Norte,,,Ensino médio,12.3
+2022,Região,Nordeste,,,Ensino médio,12.2
+2022,Região,Sudeste,,,Ensino médio,11.8
+2022,Região,Sul,,,Ensino médio,10.8
+2022,Região,Centro-Oeste,,,Ensino médio,12.0
+2022,UF,Rondônia,RO,Norte,Ensino médio,8.5
+2022,UF,Acre,AC,Norte,Ensino médio,20.0
+2022,UF,Amazonas,AM,Norte,Ensino médio,14.8
+2022,UF,Roraima,RR,Norte,Ensino médio,11.8
+2022,UF,Pará,PA,Norte,Ensino médio,7.6
+2022,UF,Amapá,AP,Norte,Ensino médio,22.6
+2022,UF,Tocantins,TO,Norte,Ensino médio,15.7
+2022,UF,Maranhão,MA,Nordeste,Ensino médio,15.5
+2022,UF,Piauí,PI,Nordeste,Ensino médio,13.7
+2022,UF,Ceará,CE,Nordeste,Ensino médio,17.7
+2022,UF,Rio Grande do Norte,RN,Nordeste,Ensino médio,7.8
+2022,UF,Paraíba,PB,Nordeste,Ensino médio,19.6
+2022,UF,Pernambuco,PE,Nordeste,Ensino médio,8.4
+2022,UF,Alagoas,AL,Nordeste,Ensino médio,8.7
+2022,UF,Sergipe,SE,Nordeste,Ensino médio,8.1
+2022,UF,Bahia,BA,Nordeste,Ensino médio,8.3
+2022,UF,Minas Gerais,MG,Sudeste,Ensino médio,13.6
+2022,UF,Espírito Santo,ES,Sudeste,Ensino médio,13.4
+2022,UF,Rio de Janeiro,RJ,Sudeste,Ensino médio,12.7
+2022,UF,São Paulo,SP,Sudeste,Ensino médio,10.2
+2022,UF,Paraná,PR,Sul,Ensino médio,8.5
+2022,UF,Santa Catarina,SC,Sul,Ensino médio,15.1
+2022,UF,Rio Grande do Sul,RS,Sul,Ensino médio,10.4
+2022,UF,Mato Grosso do Sul,MS,Centro-Oeste,Ensino médio,11.4
+2022,UF,Mato Grosso,MT,Centro-Oeste,Ensino médio,9.7
+2022,UF,Goiás,GO,Centro-Oeste,Ensino médio,12.7
+2022,UF,Distrito Federal,DF,Centro-Oeste,Ensino médio,14.4

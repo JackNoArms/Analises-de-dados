@@ -1,0 +1,31 @@
+{
+  "titulo": "Indicador de Esforço Docente · 2022",
+  "fonte": "INEP — Indicadores Educacionais, IED 2022",
+  "urls": {
+    "estados": "https://download.inep.gov.br/informacoes_estatisticas/indicadores_educacionais/2022/IED_2022_BRASIL_REGIOES_UFS.zip",
+    "municipios": "https://download.inep.gov.br/informacoes_estatisticas/indicadores_educacionais/2022/IED_2022_MUNICIPIOS.zip"
+  },
+  "metrica": "Soma percentual das categorias 1 e 2 (N1 + N2) por etapa",
+  "filtros": "Localização Total; Dependência administrativa Total",
+  "aviso": "Percentuais publicados por geografia; não inferir UF ou Brasil de médias municipais.",
+  "ano": 2022,
+  "gerado_em_utc": "2026-11-18T00:30:27+00:00",
+  "validacao": {
+    "estados": {
+      "arquivo": "IED_2022_BRASIL_REGIOES_UFS.zip",
+      "sha256": "e37ebf07c4aabf77d712556e84baa130f44563b2ee80959d72c9dbf3f5b3843d",
+      "origem_linhas": 586,
+      "total_total_linhas": 33,
+      "faltantes_removidos": 0,
+      "linhas_validas": 132
+    },
+    "municipios": {
+      "arquivo": "IED_2022_MUNICIPIOS.zip",
+      "sha256": "6072d642479beb75fdf579905e4480f615cb40eff646eb8af68f99d303b51788",
+      "origem_linhas": 66266,
+      "total_total_linhas": 5570,
+      "faltantes_removidos": 7,
+      "linhas_validas": 22273
+    }
+  }
+}
